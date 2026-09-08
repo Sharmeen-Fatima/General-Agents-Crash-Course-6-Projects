@@ -172,3 +172,17 @@ The Project 4 daily/weekly tech-news workflow: its instructions, its cloud sourc
 
 - All exercises used low-stakes, non-regulated data only (tech news, test emails). No banking, medical, identity, or other sensitive data was accessed.
 - Screenshots referenced above should be placed in a `screenshots/` folder in this repository, matching the filenames in the commented-out image links.
+
+---
+
+🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
+📅 **Last Updated:** *09 September 2026*  
+
+- **📫 Feel free to reach out: **✉️ (creativecoderpakistan@gmail.com).****
+- ***✒ For more information and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+
+
+***“Learning never stops — stay curious, stay creative!”***
+
+
+***☺️STAY HERE, STAY CONNECTED✨***
