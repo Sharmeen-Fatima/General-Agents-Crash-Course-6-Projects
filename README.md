@@ -178,7 +178,7 @@ The Project 4 daily/weekly tech-news workflow: its instructions, its cloud sourc
 🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
 📅 **Last Updated:** *09 September 2026*  
 
-- **📫 Feel free to reach out: **✉️ (creativecoderpakistan@gmail.com).****
+- **📫 Feel free to reach out: **✉️ creativecoderpakistan@gmail.com.****
 - ***✒ For more information and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
 
 
