@@ -2,11 +2,11 @@
 
 A hands-on crash course exploring how general-purpose AI agents behave on the web — covering tool execution, state and file tiers, permission gates, cloud scheduling, cross-product comparison, and vendor portability.
 
-**Status:** ✅ All 6 projects completed
+**Status:** ✅ All 6 projects completed.
 
 ---
 
-## Table of Contents
+## Table of Contents:
 
 1. [Project 1 — The Worker / Tool-Location Test](#project-1--the-worker--tool-location-test)
 2. [Project 2 — The Three-Tier Audit](#project-2--the-three-tier-audit)
@@ -24,22 +24,22 @@ A hands-on crash course exploring how general-purpose AI agents behave on the we
 <!-- The Repo comment for comment -->
 
 
-## Project 1 — The Worker / Tool-Location Test
+## Project 1 — The Worker / Tool-Location Test:
 
 **Goal:** Understand the difference between where an AI agent *thinks* (agent-loop location) and where a tool actually *runs* (tool-execution location).
 
-### What Was Done
+### What Was Done:
 - Started a task in the cloud using only a web-reachable source, then closed and reopened it from another device — the task remained complete.
 - Connected a local folder on the desktop app and asked the agent to read a file from it.
 - Tested access after moving the file, and again after disconnecting the folder connector, to observe how local access behaves.
 
-### Result / Finding
+### Result / Finding:
 - Cloud-only tasks do not depend on any single device; the reasoning happens on the server, so closing a tab does not stop the work.
 - Local-folder tasks depend on live, real-time access to that folder — if the file moves or access is removed, the task fails or reports the file as missing.
 
 <!-- Add screenshot: ![Project 1 screenshot](./screenshots/project1.png) -->
 
-**Status:** ✅ Complete
+**Status:** ✅ Complete.
 
 ---
 
