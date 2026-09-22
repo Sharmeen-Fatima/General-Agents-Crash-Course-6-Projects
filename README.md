@@ -18,6 +18,12 @@ A hands-on crash course exploring how general-purpose AI agents behave on the we
 
 ---
 
+<!-- The Repo comment for comment -->
+<!-- The Repo comment for comment -->
+<!-- The Repo comment for comment -->
+<!-- The Repo comment for comment -->
+
+
 ## Project 1 — The Worker / Tool-Location Test
 
 **Goal:** Understand the difference between where an AI agent *thinks* (agent-loop location) and where a tool actually *runs* (tool-execution location).
